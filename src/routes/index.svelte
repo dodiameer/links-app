@@ -28,6 +28,10 @@
 </script>
 
 <Body class="bg-secondary-200" />
+<svelte:head>
+	<title>Mohammed Ali Agha | Links</title>
+	<meta name="description" content="Links for most of my online presence" />
+</svelte:head>
 
 <div class="container max-w-screen-md py-4 space-y-4">
 	<section
