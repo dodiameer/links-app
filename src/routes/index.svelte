@@ -27,7 +27,7 @@
 	};
 </script>
 
-<Body class="bg-secondary-200" />
+<Body class="bg-secondary-100" />
 <svelte:head>
 	<title>Mohammed Ali Agha | Links</title>
 	<meta name="description" content="Links for most of my online presence" />
